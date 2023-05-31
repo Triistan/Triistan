@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tristan
-- 🌱 I’m currently learning Java, HTML, CSS
+- 🌱 I’m currently learning Java
 - 📫 How to reach me Discord: Tristren#8866
 
 <!---
