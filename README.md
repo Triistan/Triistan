@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tristan
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c#
 - 📫 How to reach me you don't
 
 <!---
